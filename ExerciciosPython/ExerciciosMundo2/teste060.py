@@ -1,0 +1,11 @@
+n = int(input('Digite um Número Para Calcular o FATORIAL! : '))
+c = n
+total = 0
+valor = n
+print('{}'.format(c), end='')
+while c != 1:
+    c -= 1
+    print('x{}'.format(c), end='')
+    total = valor * c
+    valor = total
+print(' = {}'.format(total))
