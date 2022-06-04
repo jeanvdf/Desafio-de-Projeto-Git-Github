@@ -6,3 +6,4 @@
 - Apenas Códigos Feitos Manualmente Sem Cópias.
 - Armazenamento de Exercícios e Anotações de Cursos sobre Programação e Desenvolvimento.
 - Exercícios de Python - Curso em Video
+- Melhorias Na Organização
